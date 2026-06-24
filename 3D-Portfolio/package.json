@@ -17,13 +17,13 @@
     "framer-motion": "^10.0.2",
     "gltfpack": "^0.18.0",
     "maath": "^0.5.2",
-    "minimatch": "^9.0.3",
+    "minimatch": "^10.2.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-intersection-observer": "^9.5.2",
     "react-js-loader": "^0.1.2",
     "react-loader": "^2.4.7",
-    "react-router-dom": "^6.8.2",
+    "react-router-dom": "^7.18.0",
     "react-tilt": "^0.1.4",
     "react-vertical-timeline-component": "^3.6.0",
     "three": "^0.150.1"
@@ -31,7 +31,7 @@
   "devDependencies": {
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
-    "@vitejs/plugin-react": "^3.1.0",
+    "@vitejs/plugin-react": "^6.0.3",
     "autoprefixer": "^10.4.13",
     "css-loader": "^6.8.1",
     "file-loader": "^6.2.0",
@@ -39,9 +39,9 @@
     "path": "^0.12.7",
     "postcss": "^8.4.21",
     "style-loader": "^3.3.3",
-    "tailwindcss": "^3.2.7",
+    "tailwindcss": "^4.3.1",
     "url-loader": "^4.1.1",
-    "vite": "^4.1.0"
+    "vite": "^8.1.0"
   },
   "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
   "main": "vite.config.js",
